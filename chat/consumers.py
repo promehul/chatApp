@@ -1,6 +1,7 @@
 # chat/consumers.py
 from channels.generic.websocket import AsyncWebsocketConsumer
 import json
+fuck khetu_bb
 
 class ChatConsumer(AsyncWebsocketConsumer):
     async def connect(self):
